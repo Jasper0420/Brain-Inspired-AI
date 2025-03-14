@@ -1,6 +1,8 @@
-### Papers
+# Books
 
-#### Computer Vision
+# Papers
+
+## Computer Vision
 
 | Paper Title | Paper | Code |
 | :--------------------------: | :--------------------------: | :--------------------------: |
