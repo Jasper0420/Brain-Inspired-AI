@@ -2,8 +2,6 @@
 
 
 
-
-
 # Papers
 
 ## computer vision 
