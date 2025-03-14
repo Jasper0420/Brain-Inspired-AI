@@ -1,42 +1,42 @@
 # Books
 
-| Book Title | Author | Link | Year |
-| :--------------------------: | :--------------------------: | :--------------------------: | :--: |
-| **Principles_of_Neural_Science** | McGraw-Hill | - | 1981 |
-| **Mind as machine: The history of Cognitive science** | Margaret A. Boden | [Link](https://archive.org/details/margaretbodenmindasmachineahistoryofcognitivesciencetwovolumesetoxforduniversitypressusa2006/page/n9/mode/2up) | 2006 |
-| **Cognitive Neuroscience** | Michael S. Gazzaniga | - | 2011 |
-| **In consciousness we trust** | Hawkan Lau | [Link](https://academic.oup.com/book/41411?login=false) | 2022 |
+|   Book Title | Author | Link | Year |
+| :---------------: | :------------------: | :----------------------------------------------------------: | :--: |
+|           **Principles_of_Neural_Science**            |     McGraw-Hill      |                              -                               | 1981 |
+| **Mind as machine: The history of Cognitive science** |  Margaret A. Boden   | [Link](https://archive.org/details/margaretbodenmindasmachineahistoryofcognitivesciencetwovolumesetoxforduniversitypressusa2006/page/n9/mode/2up) | 2006 |
+|              **Cognitive Neuroscience**               | Michael S. Gazzaniga |                              -                               | 2011 |
+|             **In consciousness we trust**             |      Hawkan Lau      |   [Link](https://academic.oup.com/book/41411?login=false)    | 2022 |
 
 # Papers
 
-| Paper Title | Paper | Code | Year |
-| :--------------------------: | :--------------------------: | :--------------------------: | :--: |
-| **Theories of consciousness from the perspective of an embedded processes view** | [Link](https://psycnet.apa.org/record/2025-55067-001) | - | 2025 |
-| **Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem** | [Link](https://arxiv.org/abs/2411.00238) | - | 2024 |
-| **MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts** | [Link](https://openreview.net/pdf?id=ZK1CZXKgG5) | [Link](https://github.com/XiaokunFeng/MemVLT) | 2024 |
-| **A Dual-Stream Neural Network Explains the Functional Segregation of Dorsal and Ventral Visual Pathways in Human Brains** | [Link](https://openreview.net/pdf?id=Fy1S3v4UAk) | [Link](https://github.com/minkyu-choi04/DualStreamBrains) | 2023 |
-| **When Brain-inspired AI Meets AGI** | [Link](https://arxiv.org/abs/2303.15935) | - | 2023 |
-| **On the Binding Problem in Artificial Neural Networks** | [Link](https://arxiv.org/abs/2012.05208) | - | 2020 |
-| **Towards a statistical mechanics of consciousness: maximization of number of connections is associated with conscious awareness** | [Link](https://arxiv.org/abs/1606.00821) | - | 2016 |
+|  Paper Title | Paper | Code| Year |
+| :-----------------: | :---------------------: | :------------------: | :--: |
+| **Theories of consciousness from the perspective of an embedded processes view** | [Link](https://psycnet.apa.org/record/2025-55067-001) |                             -                             | 2025 |
+| **Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem** |       [Link](https://arxiv.org/abs/2411.00238)        |                             -                             | 2024 |
+| **MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts** |   [Link](https://openreview.net/pdf?id=ZK1CZXKgG5)    |       [Link](https://github.com/XiaokunFeng/MemVLT)       | 2024 |
+| **A Dual-Stream Neural Network Explains the Functional Segregation of Dorsal and Ventral Visual Pathways in Human Brains** |   [Link](https://openreview.net/pdf?id=Fy1S3v4UAk)    | [Link](https://github.com/minkyu-choi04/DualStreamBrains) | 2023 |
+|             **When Brain-inspired AI Meets AGI**             |       [Link](https://arxiv.org/abs/2303.15935)        |                             -                             | 2023 |
+|   **On the Binding Problem in Artificial Neural Networks**   |       [Link](https://arxiv.org/abs/2012.05208)        |                             -                             | 2020 |
+| **Towards a statistical mechanics of consciousness: maximization of number of connections is associated with conscious awareness** |       [Link](https://arxiv.org/abs/1606.00821)        |                             -                             | 2016 |
 
 # Blogs
 
-| Blog Title | Author | Link | Year |
-| :--------------------------: | :--------------------------: | :--------------------------: | :--: |
-| **工作记忆的理论模型** | 东华君 | [Link](https://zhuanlan.zhihu.com/p/24984452) | 2017 |
-| **原创脑科学科普，微信公众号：脑人言（ibrain-talk）** | 东华君 | [Link](https://www.zhihu.com/column/ibrain) | 2025 |
-| **意识杂谈系列** | 三生万物 | [Link](https://zhuanlan.zhihu.com/p/25519731942) | 2025 |
-| **意识工程杂谈** | 三生万物 | [Link](https://www.zhihu.com/column/c_1866822342367375361) | 2025 |
-| **玛格丽特的认知科学史：人如机器（中文译文）** | 三生万物 | [Link](https://www.zhihu.com/column/c_1868690206489702400) | 2025 |
-| **行在意识之径：主观体验的认知神经科学（中文译文）** | 三生万物 | [Link](https://www.zhihu.com/column/c_1548808543301468160) | 2022 |
-| **神经科学、AI前沿普及** | felonwan | [Link](https://www.zhihu.com/column/c_1677284112975802369) | 2025 |
-| **认知计算神经科学** | felonwan | [Link](https://www.zhihu.com/column/c_1558184479830806528) | 2025 |
-| **智能与意识** | felonwan | [Link](https://www.zhihu.com/column/c_1507028410589749248) | 2025 |
-| **全球前50个人工意识模型** | 段玉聪 | [Link](https://blog.sciencenet.cn/home.php?mod=space&uid=3429562&do=blog&id=1474296) | 2025 |
-| **80个经典人工意识模型** | 段玉聪 | [Link](https://blog.sciencenet.cn/blog-3429562-1474310.html) | 2025 |
+|  Blog Title  |  Author  |  Link  | Year |
+| :-------------: | :------: | :-------------: | :--: |
+|                **工作记忆的理论模型**                 |  东华君  |        [Link](https://zhuanlan.zhihu.com/p/24984452)         | 2017 |
+| **原创脑科学科普，微信公众号：脑人言（ibrain-talk）** |  东华君  |         [Link](https://www.zhihu.com/column/ibrain)          | 2025 |
+|                   **意识杂谈系列**                    | 三生万物 |       [Link](https://zhuanlan.zhihu.com/p/25519731942)       | 2025 |
+|                   **意识工程杂谈**                    | 三生万物 |  [Link](https://www.zhihu.com/column/c_1866822342367375361)  | 2025 |
+|    **玛格丽特的认知科学史：人如机器（中文译文）**     | 三生万物 |  [Link](https://www.zhihu.com/column/c_1868690206489702400)  | 2025 |
+| **行在意识之径：主观体验的认知神经科学（中文译文）**  | 三生万物 |  [Link](https://www.zhihu.com/column/c_1548808543301468160)  | 2022 |
+|               **神经科学、AI前沿普及**                | felonwan |  [Link](https://www.zhihu.com/column/c_1677284112975802369)  | 2025 |
+|                 **认知计算神经科学**                  | felonwan |  [Link](https://www.zhihu.com/column/c_1558184479830806528)  | 2025 |
+|                    **智能与意识**                     | felonwan |  [Link](https://www.zhihu.com/column/c_1507028410589749248)  | 2025 |
+|              **全球前50个人工意识模型**               |  段玉聪  | [Link](https://blog.sciencenet.cn/home.php?mod=space&uid=3429562&do=blog&id=1474296) | 2025 |
+|               **80个经典人工意识模型**                |  段玉聪  | [Link](https://blog.sciencenet.cn/blog-3429562-1474310.html) | 2025 |
 
 # Videos
 
-| Video Title | Link | Year |
-| :--------------------------: | :--------------------------: | :--------------------------: |
+|     Video Title        |        Link           | Year |
+| :-------------------------------------------------: | :----------------------: | :--: |
 | **一切与经验有关 Richard Sutton揭示强化学习的核心** | [Link](https://www.youtube.com/watch?v=Q8NN-E1MblU) | 2025 |
