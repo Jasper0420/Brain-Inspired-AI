@@ -1,4 +1,4 @@
-# Brain-Inspired-AI Repository
+# Awesome Brain-Inspired-AI 
 
 ![brain-inspired-ai](https://s2.loli.net/2025/03/17/vnbgW9daU1C3kEX.png)
 
