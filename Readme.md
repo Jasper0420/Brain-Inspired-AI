@@ -11,7 +11,7 @@
 
 |  Paper Title | Paper | Code| Year |
 | :-----------------: | :---------------------: | :------------------: | :--: |
-| **Mind the GAP: Glimpse-based Active Perception improves generalization and sample efficiency of visual reasoning** | [Link](https://openreview.net/pdf?id=iXCeQ2m6vT) |                             -                             | 2025 |
+
 | **Mind the GAP: Glimpse-based Active Perception improves generalization and sample efficiency of visual reasoning** | [Link](https://openreview.net/pdf?id=iXCeQ2m6vT) |                             -                             | 2025 |
 | **Theories of consciousness from the perspective of an embedded processes view** | [Link](https://psycnet.apa.org/record/2025-55067-001) |                             -                             | 2025 |
 | **Understanding the Limits of Vision Language Models Through the Lens of the Binding Problem** |       [Link](https://arxiv.org/abs/2411.00238)        |                             -                             | 2024 |
