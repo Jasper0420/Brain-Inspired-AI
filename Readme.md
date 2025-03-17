@@ -4,6 +4,8 @@
 
 This repository aims to bridge the gap between artificial neural networks and biological brain mechanisms, fostering interdisciplinary research in cognitive computing, neuromorphic engineering, and biologically-inspired AI.
 
+**In progress**
+
 # Books
 
 |   Book Title | Author | Link | Year |
@@ -31,6 +33,7 @@ This repository aims to bridge the gap between artificial neural networks and bi
 |  Blog Title  |  Author  |  Link  | Year |
 | :-------------: | :------: | :-------------: | :--: |
 |                **工作记忆的理论模型**                 |  东华君  |        [Link](https://zhuanlan.zhihu.com/p/24984452)         | 2017 |
+| **AI+脑科学：人工智能与脑科学相互促进的作用** |  未来论坛  | [Link](https://www.futureforum.org.cn/cn/nav/detail/511.html) | 2020 |
 | **原创脑科学科普，微信公众号：脑人言（ibrain-talk）** |  东华君  |         [Link](https://www.zhihu.com/column/ibrain)          | 2025 |
 |                   **意识杂谈系列**                    | 三生万物 |       [Link](https://zhuanlan.zhihu.com/p/25519731942)       | 2025 |
 |                   **意识工程杂谈**                    | 三生万物 |  [Link](https://www.zhihu.com/column/c_1866822342367375361)  | 2025 |
@@ -41,6 +44,15 @@ This repository aims to bridge the gap between artificial neural networks and bi
 |                    **智能与意识**                     | felonwan |  [Link](https://www.zhihu.com/column/c_1507028410589749248)  | 2025 |
 |              **全球前50个人工意识模型**               |  段玉聪  | [Link](https://blog.sciencenet.cn/home.php?mod=space&uid=3429562&do=blog&id=1474296) | 2025 |
 |               **80个经典人工意识模型**                |  段玉聪  | [Link](https://blog.sciencenet.cn/blog-3429562-1474310.html) | 2025 |
+
+# Laboratory
+
+| Laboratory                                                   | Link                                            |
+| ------------------------------------------------------------ | ----------------------------------------------- |
+| **Tsinghua Laboratory of Brain and Intelligence**            | [Link](https://brain.tsinghua.edu.cn/index.htm) |
+| **CASIA Laboratory of Brain Atlas and Brain -inspired Interlligence** | [Link](http://brain-ai.ia.ac.cn/)               |
+
+
 
 # Videos
 
