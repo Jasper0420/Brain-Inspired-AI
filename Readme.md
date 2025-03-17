@@ -1,3 +1,9 @@
+# Brain-Inspired-AI Repository
+
+![brain-inspired-ai](https://s2.loli.net/2025/03/17/vnbgW9daU1C3kEX.png)
+
+This repository aims to bridge the gap between artificial neural networks and biological brain mechanisms, fostering interdisciplinary research in cognitive computing, neuromorphic engineering, and biologically-inspired AI.
+
 # Books
 
 |   Book Title | Author | Link | Year |
