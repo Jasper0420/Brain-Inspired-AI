@@ -1,10 +1,10 @@
-# Awesome Brain-Inspired-AI 
+# Awesome Brain-Inspired-AI [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![brain-inspired-ai](https://s2.loli.net/2025/03/17/vnbgW9daU1C3kEX.png)
 
-This repository aims to bridge the gap between artificial neural networks and biological brain mechanisms, fostering interdisciplinary research in cognitive computing, neuromorphic engineering, and biologically-inspired AI.
+😎 up-to-date & curated list of awesome Brain-Inspired-AI papers, methods & resources.
 
-**In progress**
+This repository aims to bridge the gap between artificial neural networks and biological brain mechanisms, fostering interdisciplinary research in cognitive computing, neuromorphic engineering, and biologically-inspired AI.
 
 # Books
 
