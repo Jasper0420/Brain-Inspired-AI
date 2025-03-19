@@ -6,6 +6,16 @@
 
 This repository aims to bridge the gap between artificial neural networks and biological brain mechanisms, fostering interdisciplinary research in cognitive computing, neuromorphic engineering, and biologically-inspired AI.
 
+
+
+![comprehensive review](https://s2.loli.net/2025/03/19/WkZqtAH4bg3BJsa.png)
+
+![image-20250319133236167](https://s2.loli.net/2025/03/19/xm8A7cPrQwgSo6N.png)
+
+
+
+> *Images are referenced from the article* 《Brain-inspired Artificial Intelligence: A Comprehensive Review》
+
 # Books
 
 |   Book Title | Author | Link | Year |
@@ -16,14 +26,6 @@ This repository aims to bridge the gap between artificial neural networks and bi
 |             **In consciousness we trust**             |      Hawkan Lau      |   [Link](https://academic.oup.com/book/41411?login=false)    | 2022 |
 
 # Survery
-
-![comprehensive review](https://s2.loli.net/2025/03/19/WkZqtAH4bg3BJsa.png)
-
-![image-20250319133236167](https://s2.loli.net/2025/03/19/xm8A7cPrQwgSo6N.png)
-
-
-
-> *Images are referenced from the article* 《Brain-inspired Artificial Intelligence: A Comprehensive Review》
 
 |                         Paper Title                          |                            Paper                             | Year |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
