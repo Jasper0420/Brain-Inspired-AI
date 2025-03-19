@@ -53,6 +53,7 @@ This repository aims to bridge the gap between artificial neural networks and bi
 |  Blog Title  |  Author  |  Link  | Year |
 | :-------------: | :------: | :-------------: | :--: |
 | **原创脑科学科普，微信公众号：脑人言（ibrain-talk）** |      东华君       |         [Link](https://www.zhihu.com/column/ibrain)          | 2025 |
+| 视觉系统：人类最重要的感觉 | 殷尚墨羽 | [Link](https://www.zhihu.com/column/vision-system) | 2025 |
 |                     **脑与类脑**                      |  吃虾要吃带籽虾   |  [Link](https://www.zhihu.com/column/c_1876004568229371904)  | 2025 |
 |                   **意识杂谈系列**                    |     三生万物      |       [Link](https://zhuanlan.zhihu.com/p/25519731942)       | 2025 |
 |                   **意识工程杂谈**                    |     三生万物      |  [Link](https://www.zhihu.com/column/c_1866822342367375361)  | 2025 |
@@ -83,3 +84,6 @@ This repository aims to bridge the gap between artificial neural networks and bi
 |     Video Title        |        Link           | Year |
 | :-------------------------------------------------: | :----------------------: | :--: |
 | **一切与经验有关 Richard Sutton揭示强化学习的核心** | [Link](https://www.youtube.com/watch?v=Q8NN-E1MblU) | 2025 |
+
+
+
