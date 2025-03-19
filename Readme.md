@@ -32,9 +32,12 @@ This repository aims to bridge the gap between artificial neural networks and bi
 
 |  Blog Title  |  Author  |  Link  | Year |
 | :-------------: | :------: | :-------------: | :--: |
+| **特征绑定，“时间”会给你答案？** | 张翼飞 | [link](https://zhuanlan.zhihu.com/p/24750136) | 2017 |
 |                **工作记忆的理论模型**                 |  东华君  |        [Link](https://zhuanlan.zhihu.com/p/24984452)         | 2017 |
 | **AI+脑科学：人工智能与脑科学相互促进的作用** |  未来论坛  | [Link](https://www.futureforum.org.cn/cn/nav/detail/511.html) | 2020 |
+| **《认知神经科学》笔记整理** |    初空月六    |  [Link](https://www.zhihu.com/column/c_1681592123449749504)  | 2024 |
 | **原创脑科学科普，微信公众号：脑人言（ibrain-talk）** |  东华君  |         [Link](https://www.zhihu.com/column/ibrain)          | 2025 |
+| **脑与类脑** | 吃虾要吃带籽虾 | [Link](https://www.zhihu.com/column/c_1876004568229371904) | 2025 |
 |                   **意识杂谈系列**                    | 三生万物 |       [Link](https://zhuanlan.zhihu.com/p/25519731942)       | 2025 |
 |                   **意识工程杂谈**                    | 三生万物 |  [Link](https://www.zhihu.com/column/c_1866822342367375361)  | 2025 |
 |    **玛格丽特的认知科学史：人如机器（中文译文）**     | 三生万物 |  [Link](https://www.zhihu.com/column/c_1868690206489702400)  | 2025 |
